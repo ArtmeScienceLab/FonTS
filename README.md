@@ -1,4 +1,4 @@
-<h2 align="center"> <a href="https://arxiv.org/abs/2412.00136">FonTS: Text Rendering with Typography and Style Controls</a>
+<h2 align="center"> FonTS: Text Rendering with Typography and Style Controls
 </h2>
 
 <h4 align="center">
