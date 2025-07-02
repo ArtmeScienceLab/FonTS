@@ -9,6 +9,9 @@
 
 This repository is the official implementation of FonTS, a two-stage DiT-based pipeline to achieve word-level typographic control, font consistency, and artistic style consistency in text rendering tasks.
 
+### Evaluation
+Benchmark download: [🤗 ATR-Bench](https://huggingface.co/datasets/SSS/ATR-bench/tree/main) 
+
 #### Series Work
 [WordCon: Word-level Typography Control in Scene Text Rendering](https://wendashi.github.io/WordCon-Page/)
 
