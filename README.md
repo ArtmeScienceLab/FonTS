@@ -3,10 +3,7 @@
 
 <h4 align="center">
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2412.00136-b31b1b.svg)](https://arxiv.org/abs/2412.00136)
-[![Home Page](https://img.shields.io/badge/Project-Website-green.svg)](https://wendashi.github.io/FonTS-Page/) 
-<a href="https://huggingface.co/Yuanshi/OminiControl"><img src="https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg" alt="HuggingFace"></a>
-<a href="https://huggingface.co/datasets/SSS/style_fonts_img"><img src="https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg" alt="HuggingFace"></a>
+[![ArXiv](https://img.shields.io/badge/ArXiv-2412.00136-b31b1b.svg)](https://arxiv.org/abs/2412.00136) [![Project Website](https://img.shields.io/badge/Project-Website-green.svg)](https://wendashi.github.io/FonTS-Page/)  [![HuggingFace Model](https://img.shields.io/badge/🤗_HuggingFace-Model-ffbd45.svg)](https://huggingface.co/SSS/FonTS-SCA) [![HuggingFace Dataset](https://img.shields.io/badge/🤗_HuggingFace-Dataset-ffbd45.svg)](https://huggingface.co/datasets/SSS/style_fonts_img)
 
 </h4>
 
