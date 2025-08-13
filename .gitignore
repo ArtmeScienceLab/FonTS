@@ -1,0 +1,4 @@
+
+# 忽略嵌套的 Git 仓库
+flux+SCA-both/
+flux+SCA-only/
