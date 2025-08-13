@@ -32,6 +32,34 @@ This repository is the official implementation of FonTS, a two-stage DiT-based p
 
 ![FonTS teaser image](https://raw.githubusercontent.com/ArtmeScienceLab/FonTS/main/teaser/teaser.png)
 
+### Environment
+
+```bash
+# Create conda environment
+conda create -n fonts python=3.12
+
+# Activate environment
+conda activate fonts
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+or：
+
+```bash
+# Create environment from yml file
+conda env create -f environment.yml
+
+# Activate environment
+conda activate fonts
+```
+
+### Inference
+```bash
+python /path/to/FonTS/flux+SCA-only/infer_flux+SCA-only.py
+```
+
 ### Evaluation
 Benchmark download: [🤗 ATR-Bench](https://huggingface.co/datasets/SSS/ATR-bench/tree/main) 
 
@@ -53,3 +81,8 @@ If you find this work helpful, please consider citing our paper or give a star�
 }
 ```
 
+### Acknowledgments
+
+This implementation is built based on [xflux](https://github.com/XLabs-AI/x-flux), [IP-Adapter](https://github.com/tencent-ailab/IP-Adapter), [Flux](https://github.com/black-forest-labs/flux), [diffusers](https://github.com/huggingface/diffusers).
+
+This work was substantially supported by a grant from the Research Grants Council of the Hong Kong Special Administrative Region, China (Project No. PolyU/RGC Project PolyU 25211424) and partially supported by a grant from PolyU university start-up fund (Project No. P0047675).
