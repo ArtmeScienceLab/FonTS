@@ -92,7 +92,6 @@ dependencies:
       - tokenizers==0.19.1
       - torch==2.4.0
       - torchvision==0.19.0
-      - tqdm==4.66.5
       - transformers==4.43.3
       - triton==3.0.0
       - typing-extensions==4.12.2
